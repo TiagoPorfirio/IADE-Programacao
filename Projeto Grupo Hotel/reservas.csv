@@ -1,0 +1,4 @@
+id,idQuarto,idHospede,numeroHospedes,dataInicio,dataFim,custoTotal,ativa
+1,2,1,4,2026-02-08,2026-02-15,1400.0,true
+2,4,1,6,2026-02-15,2026-02-22,2100.0,false
+3,4,5,2,2026-02-15,2026-02-25,3000.0,false
